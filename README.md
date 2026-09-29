@@ -39,7 +39,7 @@ Database: PostgreSQL
 📦 Project Setup
 
 1. Clone the repository
-git clone https://github.com/aakashkarunanithi/mcp-ordering-system
+git clone https://github.com/jegan-R1617/MCP_AI_Ordering
 cd mcp-ordering-system
 
 2. Install dependencies
